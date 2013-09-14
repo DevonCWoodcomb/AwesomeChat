@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="S:/java/bukkit/Vault.jar"/>
+	<classpathentry kind="lib" path="S:/java/bukkit/bukkit-1.5.2-R0.2-20130516.094847-5.jar"/>
+	<classpathentry kind="lib" path="S:/java/bukkit/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

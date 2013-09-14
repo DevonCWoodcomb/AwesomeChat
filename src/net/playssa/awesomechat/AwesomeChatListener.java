@@ -1,4 +1,4 @@
-package net.somethingsuperawesome.awesomechat;
+package net.playssa.awesomechat;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package net.somethingsuperawesome.awesomechat;
+package net.playssa.awesomechat;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

@@ -1,4 +1,4 @@
-package net.somethingsuperawesome.awesomechat;
+package net.playssa.awesomechat;
 
 import java.io.File;
 import java.text.DateFormat;
