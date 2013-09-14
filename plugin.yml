@@ -1,0 +1,54 @@
+name: AwesomeChat
+main: net.somethingsuperawesome.awesomechat.AwesomeChat
+version: 1.0
+commands:
+   admin:
+      description: admin chat
+      usage: /<command> <message>
+      permission: awesomechat.adminchat
+      permission-message: You don't have <permission>
+   mod:
+      description: admin chat
+      usage: /<command> <message>
+      permission: awesomechat.modchat
+      permission-message: You don't have <permission>
+   builder:
+      description: admin chat
+      usage: /<command> <message>
+      permission: awesomechat.builderchat
+      permission-message: You don't have <permission>
+   guide:
+      description: admin chat
+      usage: /<command> <message>
+      permission: awesomechat.guidechat
+      permission-message: You don't have <permission>
+   chat:
+      description: sticky a chat
+      usage: /<command> <message>
+   acreload:
+      description: reload ymls
+      usage: /<command>
+   nick:
+      description: sticky a chat
+      usage: /<command> <message>
+   color:
+      description: sticky a chat
+      usage: /<command> <message>
+   rcolor:
+      description: sticky a chat
+      usage: /<command> <message>
+   rhcolor:
+      description: sticky a chat
+      usage: /<command> <message>
+   rh1:
+      description: sticky a chat
+      usage: /<command> <message>
+   rh2:
+      description: sticky a chat
+      usage: /<command> <message>
+   rprefix:
+      description: sticky a chat
+      usage: /<command> <message>
+   rsuffix:
+      description: sticky a chat
+      usage: /<command> <message>
